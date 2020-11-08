@@ -3,3 +3,4 @@
 Olá! Bem Vindo ao meu livros de receitas :wave:
 
 - Strogonoff de frango
+- Strogonoff de carne
