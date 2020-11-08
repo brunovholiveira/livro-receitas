@@ -6,3 +6,4 @@ Olá! Bem Vindo ao meu livros de receitas :wave:
 - Strogonoff de carne
 - Strogonoff de ovo
 - Strogonoff de cove
+- Strogonoff de camarão
